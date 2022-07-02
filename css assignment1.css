@@ -1,0 +1,38 @@
+.test{
+    
+    color: red;
+}
+span{
+    background-color: yellow;
+}
+.test0{
+    color: crimson;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: bold;
+}
+.test1{
+    text-decoration: underline;
+}
+.test2{
+    color: brown;
+}
+.test3{
+    color:brown;
+    font-size: 15px;
+    font-family: monospace;
+    
+}
+.test4{
+    color: brown;
+    font-display: 20px;
+    font-size: small;
+    font-weight: bold;
+}
+a{
+    color: brown;
+    background-color: yellow;
+    font-style: italic;
+    font-size: medium;
+    text-decoration: none;
+}
